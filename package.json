@@ -108,7 +108,7 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.2",
     "webpackbar": "^4.0.0",
-    "yup": "^1.2.0"
+    "yup": "^0.32.9"
   },
   "engines": {
     "node": ">=10.16.0 <=18.x.x",
